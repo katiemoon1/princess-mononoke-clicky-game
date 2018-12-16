@@ -2,6 +2,7 @@ import React, { Component } from "react"
 import CharacterCard from "./components/CharacterCard"
 import Wrapper from "./components/Wrapper"
 import Title from "./components/Title"
+import Navbar from "./components/Navbar"
 import characters from "./characters.json"
 
 class App extends Component {
@@ -13,6 +14,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+        <Navbar />
         <Title>Princess Mononoke Clicky Game!</Title>
         {this.state.characters.map(character => (
           <CharacterCard
