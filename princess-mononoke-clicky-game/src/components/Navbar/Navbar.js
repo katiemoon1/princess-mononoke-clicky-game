@@ -14,16 +14,16 @@ class Navbar extends React.Component {
 
     render() {
         return (
-            <ul className="nav justify-content-center">
-                <li className="nav-item">
-                    <h5>Clicky Game!</h5>
-                </li>
-                <li className="nav-item">
-                    <p className="counter-text">
-                        Score: {this.state.count}
-                    </p>
-                </li>
-            </ul>
+            <nav className="navbar navbar-dark bg-dark">
+                <ul className="navbar-nav">
+                    <li className="nav-item">
+                        <h5>Clicky Game!</h5>
+                    </li>
+                </ul>
+                <span className="navbar-text">
+                    Score: {this.state.count}
+                </span>
+            </nav>
         )
     }
 }
