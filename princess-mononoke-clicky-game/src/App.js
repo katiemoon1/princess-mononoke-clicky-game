@@ -3,6 +3,7 @@ import CharacterCard from "./components/CharacterCard"
 import Wrapper from "./components/Wrapper"
 import Title from "./components/Title"
 import Navbar from "./components/Navbar"
+import Footer from "./components/Footer"
 import characters from "./characters.json"
 
 class App extends Component {
@@ -22,6 +23,7 @@ class App extends Component {
           image={character.image}
           />
         ))}
+        <Footer />
       </Wrapper>
     )
   }
