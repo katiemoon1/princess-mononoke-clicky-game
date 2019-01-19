@@ -9,4 +9,10 @@
     background: url("/img/princess-mononoke-background.jpg");
     background-size: cover
   }
+
+  .header {
+    font-size: 3rem;
+    text-decoration: bold;
+    color: white
+  }
   

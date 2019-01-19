@@ -1,63 +1,74 @@
 [
-    {
-      "id": 1,
-      "name": "San",
-      "image": "https://www.bfi.org.uk/sites/bfi.org.uk/files/fb-images/princess-mononoke-1997-004-girl-in-white-at-night-1000x750.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Yakul",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/yakul.png"
-    },
-    {
-      "id": 3,
-      "name": "The Forest Spirit",
-      "image": "https://image.myanimelist.net/ui/THP3d05SFhdRvLOKLs2gqUFz0THCvIe10gufubJGDV2XdWQOGjgCmk-Xv-oy3g6MWGYGkikqIE40HIgDozngpUU4_YQqij6DIL-rzMJcTeI-cHodMRNwGLivkgKVF7aJZ27a995la3Nl_M9YKpANHg"
-    },
-    {
-      "id": 4,
-      "name": "San with Moro",
-      "image": "https://jojud265nia2bj9sy4ah9b61-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Princess-Monoke-1600x900-c-default.jpg"
-    },
-    {
-      "id": 5,
-      "name": "San with Wolves",
-      "image": "https://s2-ssl.dmcdn.net/NKI1f/x480-xWi.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Ashitaka",
-      "image": "https://cdn-images-1.medium.com/max/1600/1*qfVRWyA2Z8X4zjM1FsRnQg.jpeg"
-    },
-    {
-      "id": 7,
-      "name": "Wood Spirits",
-      "image": "https://www.desktopbackground.org/download/o/2015/11/05/1037529_kodama-mononoke-wallpaper-images_1024x576_h.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Okkoto",
-      "image": "https://image.myanimelist.net/ui/THP3d05SFhdRvLOKLs2gqUFz0THCvIe10gufubJGDV2XdWQOGjgCmk-Xv-oy3g6MHiEuFmZ0SWk61vBLlupkrug8YusWVdZevFKPzRREYX1A5OO19pWb6AUJlp1NhhnOcHMyFbhgUrRXqKFBYyTW8w"
-    },
-    {
-      "id": 9,
-      "name": "Lady Eboshi",
-      "image": "http://images6.fanpop.com/image/polls/1670000/1670595_1518036194379_full.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Jigo",
-      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/d/d0/Jigo_and_food.jpg/revision/latest?cb=20181011030748"
-    },
-    {
-      "id": 11,
-      "name": "Forest Spirit Soul",
-      "image": "https://image.myanimelist.net/ui/THP3d05SFhdRvLOKLs2gqUFz0THCvIe10gufubJGDV2XdWQOGjgCmk-Xv-oy3g6M97lvagORmuPgtLKt-yyRIKo75SfGECuNLjzVmYv8LjiPh9T-E7Y8C2l14QHmAdgmqdp6KY5xufDevEP8vUkTIg"
-    },
-    {
-      "id": 12,
-      "name": "Ashitaka with darkness",
-      "image": "https://i.pinimg.com/originals/88/27/af/8827af5f693b19f0010b8adafa94a301.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "San",
+    "image": "https://www.bfi.org.uk/sites/bfi.org.uk/files/fb-images/princess-mononoke-1997-004-girl-in-white-at-night-1000x750.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Yakul",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/yakul.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "The Forest Spirit",
+    "image": "https://image.myanimelist.net/ui/THP3d05SFhdRvLOKLs2gqUFz0THCvIe10gufubJGDV2XdWQOGjgCmk-Xv-oy3g6MWGYGkikqIE40HIgDozngpUU4_YQqij6DIL-rzMJcTeI-cHodMRNwGLivkgKVF7aJZ27a995la3Nl_M9YKpANHg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "San with Moro",
+    "image": "https://jojud265nia2bj9sy4ah9b61-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Princess-Monoke-1600x900-c-default.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "San with Wolves",
+    "image": "https://s2-ssl.dmcdn.net/NKI1f/x480-xWi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Ashitaka",
+    "image": "https://cdn-images-1.medium.com/max/1600/1*qfVRWyA2Z8X4zjM1FsRnQg.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Wood Spirits",
+    "image": "https://www.desktopbackground.org/download/o/2015/11/05/1037529_kodama-mononoke-wallpaper-images_1024x576_h.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Okkoto",
+    "image": "https://image.myanimelist.net/ui/THP3d05SFhdRvLOKLs2gqUFz0THCvIe10gufubJGDV2XdWQOGjgCmk-Xv-oy3g6MHiEuFmZ0SWk61vBLlupkrug8YusWVdZevFKPzRREYX1A5OO19pWb6AUJlp1NhhnOcHMyFbhgUrRXqKFBYyTW8w",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Lady Eboshi",
+    "image": "http://images6.fanpop.com/image/polls/1670000/1670595_1518036194379_full.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Jigo",
+    "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/d/d0/Jigo_and_food.jpg/revision/latest?cb=20181011030748",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Forest Spirit Soul",
+    "image": "https://image.myanimelist.net/ui/THP3d05SFhdRvLOKLs2gqUFz0THCvIe10gufubJGDV2XdWQOGjgCmk-Xv-oy3g6M97lvagORmuPgtLKt-yyRIKo75SfGECuNLjzVmYv8LjiPh9T-E7Y8C2l14QHmAdgmqdp6KY5xufDevEP8vUkTIg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Ashitaka with darkness",
+    "image": "https://i.pinimg.com/originals/88/27/af/8827af5f693b19f0010b8adafa94a301.jpg",
+    "clicked": false
+  }
+]
